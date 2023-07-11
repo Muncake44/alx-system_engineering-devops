@@ -1,0 +1,2 @@
+#!/bin/bash
+type -f “%t %p\n” sort -10 tail -1
