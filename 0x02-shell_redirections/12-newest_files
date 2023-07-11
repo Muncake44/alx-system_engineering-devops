@@ -1,2 +1,2 @@
 #!/bin/bash
--type f -printf  “%t-%p\n” sort -10 tail -1
+-type f -printf  “%t-%p\10” sort -10 tail -1
